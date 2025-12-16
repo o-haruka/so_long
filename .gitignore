@@ -1,0 +1,8 @@
+*.o
+*.out
+*.a
+so_long
+libft.a
+.vscode/
+.DS_Store
+obj/
